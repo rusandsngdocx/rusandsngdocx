@@ -480,5 +480,8 @@ h2{
     -moz-transition: all 0.35s ease-in;
     -o-transition: all 0.35s ease-in;
     -ms-transition: all 0.35s ease-in;
-}	
+}
+.border-none{
+	border:none !important
+}		
 /* User style end */
