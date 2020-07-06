@@ -483,5 +483,11 @@ h2{
 }
 .border-none{
 	border:none !important
-}		
+}
+.new_site_infomation{
+	color:#FF1E00;
+	font-weight: bold;
+	text-transform:uppercase;
+	font-size:150%;
+}	
 /* User style end */
