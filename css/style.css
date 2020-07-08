@@ -496,4 +496,9 @@ h2{
 	text-shadow: 1px 0px 20px rgba(0, 0, 0, 1);
 	
 }
+.new_site_infomation:focus{
+	 outline: none;
+   	 text-decoration: none;
+   	 color:#FF1E00;
+}
 /* User style end */
