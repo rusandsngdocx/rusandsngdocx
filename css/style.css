@@ -489,5 +489,11 @@ h2{
 	font-weight: bold;
 	text-transform:uppercase;
 	font-size:150%;
-}	
+}
+.new_site_infomation:hover{
+	text-decoration:none;
+	color:#FF1E00;
+	text-shadow: 1px 0px 20px rgba(0, 0, 0, 1);
+	
+}
 /* User style end */
